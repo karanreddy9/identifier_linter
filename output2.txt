@@ -1,0 +1,55 @@
+---------------------------------------------------------
+Below is the identifier list for 'ruby_test_file.rb'
+---------------------------------------------------------
+puts (6, 0) (6, 4) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+num1 (7, 0) (7, 4) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+gets (7, 5) (7, 9) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+chomp (7, 10) (7, 15) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+to_i (7, 16) (7, 20) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+puts (8, 0) (8, 4) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+num2 (9, 0) (9, 4) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+gets (9, 5) (9, 9) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+chomp (9, 10) (9, 15) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+to_i (9, 16) (9, 20) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+sum (12, 0) (12, 3) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+num1 (12, 4) (12, 8) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+num2 (12, 9) (12, 13) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+puts (15, 0) (15, 4) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+sum (15, 19) (15, 22) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+
+---------------------------------------------------------
+Below is the identifier list for 'python_test_file.py'
+---------------------------------------------------------
+HTMLEditorKit (2, 0) (2, 13) -> Identifiers should be appropriately capitalized.
+pagecounter (3, 0) (3, 11) -> Identifiers should be appropriately capitalized.
+foo__bar (4, 0) (4, 8) -> Consecutive underscores should not be used in identifier names.
+foo_bar (5, 0) (5, 7) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+hello (6, 0) (6, 5) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+strlen (8, 0) (8, 6) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+floatToRawIntBits (9, 0) (9, 17) -> Identifier names should be composed of no more than four words or abbreviations.
+_foo_ (10, 0) (10, 5) -> Identifiers should not have either leading or trailing underscores.
+getPolicyQualifiersRejected (11, 0) (11, 27) -> Long identifier names should be avoided where possible
+FOO_bar (12, 0) (12, 7) -> Identifiers should not consist of non-standard mixes of upper and lower case characters.
+ArrayOutOfBoundsException (13, 0) (13, 25) -> Identifier names should be composed of no more than four words or abbreviations.
+FORTY_TWO (14, 0) (14, 9) -> Identifiers should not be composed entirely of numeric words or numbers.
+name (15, 0) (15, 4) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+
+---------------------------------------------------------
+Below is the identifier list for 'go_test_file.go'
+---------------------------------------------------------
+main (2, 5) (2, 9) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+fmt (3, 4) (3, 7) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+
+---------------------------------------------------------
+Below is the identifier list for 'js_test_file.js'
+---------------------------------------------------------
+num1 (0, 6) (0, 10) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+num2 (1, 6) (1, 10) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+sum (4, 6) (4, 9) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+num1 (4, 12) (4, 16) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+num2 (4, 19) (4, 23) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+console (7, 0) (7, 7) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+num1 (7, 28) (7, 32) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+num2 (7, 45) (7, 49) -> Identifier names should be composed of words found in the dictionary and abbreviations, and acronyms, that are more commonly used than the unabbreviated form.
+sum (7, 62) (7, 65) -> Identifiers should not consist of fewer than eight characters, with the exception of: c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z
+
