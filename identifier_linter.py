@@ -5,23 +5,23 @@ import re
 import sys
 import git.exc
 
+from tree_sitter import Language, Parser
 from spellchecker import SpellChecker
 from word2number import w2n
 from git import Repo
-from tree_sitter import Language, Parser
 
-Language.build_library(
-    # Store the library in the `build` directory
-    'build/my-languages.so',
-
-    # Include one or more languages
-    [
-        './tree-sitter-go',
-        './tree-sitter-javascript',
-        './tree-sitter-python',
-        './tree-sitter-ruby'
-    ]
-)
+# Language.build_library(
+#     # Store the library in the `build` directory
+#     'build/my-languages.so',
+#
+#     # Include one or more languages
+#     [
+#         './tree-sitter-go',
+#         './tree-sitter-javascript',
+#         './tree-sitter-python',
+#         './tree-sitter-ruby'
+#     ]
+# )
 
 GO_LANGUAGE = Language('build/my-languages.so', 'go')
 JS_LANGUAGE = Language('build/my-languages.so', 'javascript')
